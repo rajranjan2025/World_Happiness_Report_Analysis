@@ -36,5 +36,5 @@ Feel free to raise issues or contribute improvements to this project. Suggestion
 ---
 **Author:** Raj Ranjan Ojha  
 **GitHub:** (https://github.com/rajranjan2025)  
-**LinkedIn:** (https://www.linkedin.com/in/raj-ranjan-ojha-59a2a733a/)
+**LinkedIn:** (https://www.linkedin.com/in/raj-ranjan-ojha)
 
